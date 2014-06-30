@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://erdostom.github.io/blog/sitemap.xml 
